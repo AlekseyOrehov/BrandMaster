@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Политика конфиденциальности / Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/AlekseyOrehov/BrandMaster/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Термин “информация”, используемый ниже, определяется как любая информация, которая идентифицирует или может использоваться для идентификации, связи или поиска человека, к которому такая информация относится.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Мы не запрашиваем Ваш адрес электронной почты, телефон или какую нибудь информацию о Вас.
+Мы не продаем контент.
+Мы не требуем регистрации.
+Безопасность Вашей персональной информации не будет нарушена.
+Мы не запрашиваем информацию о Вашем местоположении через наше мобильное приложение.
+Мы не отправляем на электронную почту рассылку новостей.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlekseyOrehov/BrandMaster/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Контакты
+e-mail: bmasterfire@gmail.com
