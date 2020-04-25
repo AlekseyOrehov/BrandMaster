@@ -13,5 +13,5 @@
 # Поддержка / Support contact information 
 
 По вопросам касающихся работы приложения, вы можете обращаться: 
-- в группу в Вконтакте: [a link](https://vk.com/brmeister)
-- на e-mail: bmasterfire@gmail.com
+- в группу в Вконтакте: [https://vk.com/brmeister](https://vk.com/brmeister)
+- на e-mail: [bmasterfire@gmail.com](bmasterfire@gmail.com)
